@@ -4,10 +4,12 @@ My name is Luca, I have a Master's in Data Science and Business Informatics (@Un
 
 - ⚡ I recently built a framework to validate the realism of LLM-powered simulators and to evaluate alteration effects, i.e. those obtained by modified configurations of the systems (counterfactual streams), on their original, unaltered outputs.
   - [SIMVALE](https://github.com/lcodagiorgio/SIMVALE) (SIMulator VAlidation with Latent Embeddings) was actually my Master Thesis work!
+ 
 - 🌱 Among the repos you can find some of the most relevant projects related to my degree, such as:
   - Optimization ([here](https://github.com/lcodagiorgio/ODS_project-repo))
   - Statistics ([here](https://github.com/lcodagiorgio/SDS_project-repo))
   - Laboratory of Data Science ([here](https://github.com/lcodagiorgio/LDS_project-repo))
+
 - 👯 Inspired and motivated by new challenges, I am excited about the opportunity to collaborate with like-minded peers and organizations to make a lasting impact on both business performance and society at large!
 
 <!--
