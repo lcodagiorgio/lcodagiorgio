@@ -2,7 +2,7 @@
 
 My name is Luca, I have a Master's in Data Science and Business Informatics (@UniPi) and a Bachelor's in Business Administration (@UniFi), and I'm deeply passionate in all things Python, Data Science and Machine Learning!
 
-- ⚡ I recently built a framework to validate the realism of LLM-powered simulators and to evaluate alteration effects, i.e. those obtained by modified configurations of the systems (counterfactual streams), on their original, unaltered outputs.
+- ⚡ I recently built a novel framework to validate LLM-powered simulators, both in terms of their realism and to assess alteration effects, i.e. changes resulting from modified system configurations (counterfactual streams), on their original, unaltered outputs.
   - [SIMVALE](https://github.com/lcodagiorgio/SIMVALE) (SIMulator VAlidation with Latent Embeddings) was actually my Master Thesis work!
  
 - 🌱 Among the repos, you can find some of the most relevant projects related to my degree, such as:
