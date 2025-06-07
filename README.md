@@ -12,6 +12,8 @@ My name is Luca, I have a Master's in Data Science and Business Informatics (@Un
 
 - 👯 Inspired and motivated by new challenges, I am excited about the opportunity to collaborate with like-minded peers and organizations to make a lasting impact on both business performance and society at large!
 
+- 📫 Feel free to contact me by [email](mailto:luca.codagiorgio@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lcodagiorgio/)
+
 <!--
 **lcodagiorgio/lcodagiorgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
